@@ -1,0 +1,7 @@
+{
+  "name": "ryml-linker-regression",
+  "version-string": "0.9.0",
+  "dependencies": [
+    "ryml"
+  ]
+}
